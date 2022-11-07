@@ -1,0 +1,12 @@
+name: pccd
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python =3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - scikit-learn 
+  - jupyter
